@@ -1,2 +1,1 @@
-# lola-app
-Fichier app-ads.txt pour l’application Lola – autorisation AdMob
+google.com, pub-9584008897054219, DIRECT, f08c47fec0942fa0
